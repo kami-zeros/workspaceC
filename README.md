@@ -6,3 +6,5 @@ https://npm.taobao.org/mirrors/git-for-windows/
 
 腾讯下载：
 https://pc.qq.com/detail/13/detail_22693.html
+
+###### 可能被加密
