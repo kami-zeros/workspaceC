@@ -86,3 +86,7 @@ lint/tmp/
 
 .vs
 cmake-build-debug-mingw/
+cmake-build-debug-mingw/*
+cmake-build-debug-mingw
+.cmake-build-debug-mingw
+

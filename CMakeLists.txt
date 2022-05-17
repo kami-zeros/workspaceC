@@ -10,9 +10,20 @@ add_executable(workspaceC
 #        C_02/Day02.cpp
 #        C_03/main_struct.cpp
 #        C_03/main_fun.cpp
-        C_04/DataStore.cpp
-        C_04/DataStore.h
-        C_04/main_object.cpp
+#        C_04/DataStore.cpp
+#        C_04/DataStore.h
+#        C_04/main_object.cpp
+        C_04/af_console.cpp
+        C_04/af_console.h
+#        C_04/student.h
+        C_05/student.h
+        C_05/main_database.cpp
+        C_06/main_class.cpp
+        C_06/CmdHandler.h
+        C_06/CmdInput.cpp
+        C_06/CmdInput.h
+        C_06/CmdParser.cpp
+        C_06/CmdParser.h
         )
 
 # 方法二：对main进行重定义
